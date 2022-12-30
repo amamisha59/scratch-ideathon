@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @amamisha59
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning java and frontend development
-- 💞️ I’m looking to collaborate on projects that help in my learning
+scratch-ideathon
+# ABOUT THE PROBLEM
+As we know that many people are unable to afford the book even online books because of the price.They want to read the book but because of the price they are not able to buy.when price comes people choose their neccessity not their choice.
+# MY SOLUTION 
+If we provide them  e-book lending facility for some fixed period of time they are also able to read different kind of  books.e-book lending provide them platform to learn more and read more.
+Nowdays very less number of this e-book lending websites are present .so this solution help alot number of people.
+# ADVANTAGE
+•	This solution is cost effective for the readers and learners.
 
+Name:Amisha sinha
 
-<!---
-amamisha59/amamisha59 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Regd. No.:2141019492
+
+Year:2nd
+
+Branch:CSIT
+Section:E
